@@ -1,4 +1,43 @@
-## QUESTION TWO
+## QUESTION TWO: List the significant features of React.
+
+_ANSWER_
+
+- Virtual DOM.
+- JavaScript XML or JSX.
+- One-Way Data Binding.
+- Declarative UI.
+- Component Based Architecture.
+
+## QUESTION THREE: List five major advantages of React.
+
+_ANSWER_
+
+- With React, creating Dynamic Web Application is easy,fast and efficient.
+- It is composable.
+- It is declarative and not imperative
+- It is backed by a strong community.
+- Stable code structure.
+
+## QUESTION FOUR : What is the name of the software engineer that created React and what company owns React.
+
+_ANSWER_
+
+- The name of the software Engineer that craeted react is jordan walke and react is owned by Meta (formerly facebook).
+
+## QUESTION FIVE: What are the notable differences between HTML and JSX?. Give at least three of them.
+
+_ANSWER_
+
+- HTML elements have attributes while JSX elements have Props.
+- HTML is a HyperText Markup Language while JSX is the execution syntax of JavaScript.
+- In HTML we use the class attribute Whereas in JSX we use the className attribute.
+- In HTML Event Listeners are written in lowercase while in JSX they are written in camelCase.
+
+## QUESTION SIX: Why can't browsers read JSX.
+
+_ANSWER_
+
+- Browsers can't read JSX because JSX is not valid JavaScript and we need a transpiler to translate it to React.
 
 # Getting Started with Create React App
 
