@@ -28,7 +28,7 @@ _ANSWER_
 
 _ANSWER_
 
-- HTML elements have attributes while JSX elements have Props.
+- HTML elements have attributes while JSX elements have props.
 - HTML is a HyperText Markup Language while JSX is the execution syntax of JavaScript.
 - In HTML we use the class attribute Whereas in JSX we use the className attribute.
 - In HTML Event Listeners are written in lowercase while in JSX they are written in camelCase.
