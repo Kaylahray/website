@@ -39,6 +39,8 @@ _ANSWER_
 
 - Browsers can't read JSX because JSX is not valid JavaScript and we need a transpiler to translate it to React.
 
+_THE END_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
